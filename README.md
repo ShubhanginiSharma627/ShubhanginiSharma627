@@ -22,9 +22,11 @@ I am a passionate Software Engineer focused on building high-impact, scalable, d
 * **Reliability:** Built a self-healing worker pool with heartbeat monitoring to ensure 0% task loss during node failures.
 
 
-### 📊 GitHub Stats & Activity
-![Shubhangini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhanginiSharma627&show_icons=true&theme=vibrant)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhanginiSharma627&layout=compact&theme=vibrant)
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhanginiSharma627&show_icons=true&theme=vibrant&hide_border=true" alt="Shubhangini's GitHub stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhanginiSharma627&layout=compact&theme=vibrant&hide_border=true" alt="Top Langs" height="180px" />
+</p>
 
 ---
 
