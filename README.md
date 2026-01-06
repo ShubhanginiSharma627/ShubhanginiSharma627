@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Shubhangini Sharma 👋 
+### M.Tech Student @ NIT Hamirpur | Full-Stack & AI Engineer
 
-<!--
-**ShubhanginiSharma627/ShubhanginiSharma627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Software Engineer focused on building high-impact, scalable, distributed systems and intelligent mobile applications and currently pursuing my M.Tech at NIT Hamirpur, I specialise in bridging the gap between complex backend architectures and intuitive user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Expertise
+
+**Frontend:** React, React Native, SwiftUI, Flutter, Material UI, Redux-Saga  
+**Backend:** Node.js, Express.js, Java (Spring Boot), Spring Data JPA, MuleSoft  
+**Data & AI:** CoreML, NLP, NumPy, Pandas, Scikit-learn, Keras  
+**Infrastructure:** AWS (Certified Cloud Practitioner), Docker, PostgreSQL, MongoDB, Git  
+
+---
+
+### 📂 Featured Projects
+
+#### ⚡ [Distributed Task Scheduler](https://github.com/ShubhanginiSharma627/DistributedTaskScheduler)
+* **High-Impact Backend:** Architected a fault-tolerant system using **Java 17 & PostgreSQL** to execute millions of tasks across a distributed cluster.
+* **Deep Tech:** Implemented **Pessimistic Locking (`SKIP LOCKED`)** to solve concurrency challenges and ensure "Exactly-Once" task execution.
+* **Reliability:** Built a self-healing worker pool with heartbeat monitoring to ensure 0% task loss during node failures.
+
+
+### 📊 GitHub Stats & Activity
+![Shubhangini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhanginiSharma627&show_icons=true&theme=vibrant)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhanginiSharma627&layout=compact&theme=vibrant)
+
+---
+
+### 📫 Let's Connect!
+- 📧 Email: [shubhanginisharma67@gmail.com](mailto:shubhanginisharma67@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/shubhangini-sharma-web-developer/]
+- 📝 Portfolio: [https://portfolio-ruby-ten-ahv8cnagbo.vercel.app/]
