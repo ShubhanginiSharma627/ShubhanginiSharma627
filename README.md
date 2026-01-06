@@ -31,7 +31,6 @@ I am a passionate Software Engineer focused on building high-impact, scalable, d
 ---
 
 ### 📫 Let's Connect!
-- 📧 [Email](shubhanginisharma67@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubhangini-sharma-web-developer/)
 - 📝 [Portfolio](https://portfolio-ruby-ten-ahv8cnagbo.vercel.app/)
 - 💻 [LeetCode Profile](https://leetcode.com/u/shubhanginisharma67/)
