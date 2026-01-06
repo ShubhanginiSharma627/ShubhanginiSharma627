@@ -24,8 +24,8 @@ I am a passionate Software Engineer focused on building high-impact, scalable, d
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhanginiSharma627&show_icons=true&theme=vibrant&hide_border=true" alt="Shubhangini's GitHub stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhanginiSharma627&layout=compact&theme=vibrant&hide_border=true" alt="Top Langs" height="180px" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhanginiSharma627&show_icons=true&theme=vibrant&hide_border=true" alt="Shubhangini's GitHub stats" height="180px" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhanginiSharma627&layout=compact&theme=vibrant&hide_border=true" alt="Top Langs" height="180px" />
 </p>
 
 ---
